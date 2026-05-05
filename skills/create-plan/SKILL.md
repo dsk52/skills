@@ -1,9 +1,12 @@
 ---
 name: create-plan
 description: 今いるリポジトリのアプリケーションの改修を行うための実装計画(PLAN.md)を作成・更新するためのスキル
+license: MIT
 metadata:
   short-description: Write PLAN.md
   tags: [planning, development]
+  author: dsk52
+  version: "1.0.0"
 ---
 
 # 目的
